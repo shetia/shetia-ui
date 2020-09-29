@@ -1,7 +1,7 @@
 {
   "name": "shetia-ui",
   "author": "shetia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/shetiaui.umd.min.js",
   "keyword": "shetia ui vue pdf down calendar",
   "private": false,
